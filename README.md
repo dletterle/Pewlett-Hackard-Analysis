@@ -11,7 +11,7 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 **2. Results**
 
 *   Breakdown of analysis:
-*     32,452 Staff
+  *   32,452 Staff
 *     29,415 Senior Engineer
 *     14,221 Engineer
 *     8,047 Senior Staff
